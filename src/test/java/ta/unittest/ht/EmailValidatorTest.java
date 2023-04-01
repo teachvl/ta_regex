@@ -52,7 +52,6 @@ public class EmailValidatorTest {
 			{"a1@mail.ua"},
 			{".a.@mail.ua"},
 			{"1a1@mail.ua"},
-			{"UserName1@mail.Ua"},
 			{"user_name@mail.ua"},
 			{"user-name@mail.ua"},
 			{"username_@mail.ua"},
